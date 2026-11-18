@@ -343,3 +343,16 @@ While this prototype deliberately excludes heavy database dependencies or direct
 2. **Interaction Logging & Case Creation:** When a student clicks "Call Service", a ServiceNow Incident or Case (`sn_customerservice_case`) can be automatically generated with triage tags.
 3. **Multilingual Support:** Gemini's multilingual capabilities can automatically triage student requests submitted in any language while routing to local university resources.
 4. **Accessible Communication Channels:** Can be expanded to include WhatsApp business lines, live chat links, or campus walk-in location maps.
+
+
+⚠️ Disclaimer
+
+RightRoute AI is a student support triage and routing prototype. The included university services and contact details are fictional examples intended for demonstration. The application does not replace professional counselling, medical assistance, or official university support channels.
+
+👩‍💻 Developed By
+
+RV Srujana
+Computer Science and Engineering
+Vasavi College of Engineering
+
+Project: RightRoute AI – Student Support Navigator
