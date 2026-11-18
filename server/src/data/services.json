@@ -1,0 +1,86 @@
+[
+  {
+    "id": "counselling-mental-wellbeing",
+    "name": "Counselling & Mental Wellbeing",
+    "category": "wellbeing",
+    "description": "Support for stress, anxiety, emotional difficulties, exam pressure and general mental wellbeing concerns.",
+    "phone": "+91 98765 43201"
+  },
+  {
+    "id": "academic-support",
+    "name": "Academic Support",
+    "category": "academic",
+    "description": "Support for coursework difficulties, study problems, exam preparation and academic challenges.",
+    "phone": "+91 98765 43202"
+  },
+  {
+    "id": "financial-aid",
+    "name": "Financial Aid",
+    "category": "financial",
+    "description": "Support for tuition fees, scholarships, financial difficulties and funding-related concerns.",
+    "phone": "+91 98765 43203"
+  },
+  {
+    "id": "accommodation-housing",
+    "name": "Accommodation & Housing",
+    "category": "housing",
+    "description": "Support for hostel, accommodation, housing and living-arrangement concerns.",
+    "phone": "+91 98765 43204"
+  },
+  {
+    "id": "student-grievance-support",
+    "name": "Student Grievance & Support",
+    "category": "grievance",
+    "description": "Support for complaints, conflicts, harassment concerns and student grievances.",
+    "phone": "+91 98765 43205"
+  },
+  {
+    "id": "accessibility-disability-services",
+    "name": "Accessibility & Disability Services",
+    "category": "accessibility",
+    "description": "Support for accessibility requirements, accommodations and disability-related student support.",
+    "phone": "+91 98765 43206"
+  },
+  {
+    "id": "career-services",
+    "name": "Career Services",
+    "category": "career",
+    "description": "Support for internships, placements, career planning, resumes and employment preparation.",
+    "phone": "+91 98765 43207"
+  },
+  {
+    "id": "international-student-services",
+    "name": "International Student Services",
+    "category": "international",
+    "description": "Support for international students, adjustment concerns, documentation and university-related international support.",
+    "phone": "+91 98765 43208"
+  },
+  {
+    "id": "student-affairs-student-life",
+    "name": "Student Affairs & Student Life",
+    "category": "student_life",
+    "description": "General student-life, campus-life and student support concerns.",
+    "phone": "+91 98765 43209"
+  },
+  {
+    "id": "health-services",
+    "name": "Health Services",
+    "category": "health",
+    "description": "Support for general physical health concerns and access to university health services.",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "id": "wellness-recreation",
+    "name": "Wellness & Recreation",
+    "category": "wellness",
+    "description": "Support related to healthy routines, recreation, fitness and general wellbeing activities.",
+    "phone": "+91 98765 43211"
+  },
+  {
+    "id": "crisis-immediate-support",
+    "name": "Crisis & Immediate Support",
+    "category": "urgent_support",
+    "description": "Immediate support for situations that may require urgent assistance.",
+    "phone": "+91 98765 43212"
+  }
+]
